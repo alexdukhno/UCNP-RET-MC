@@ -1,0 +1,22 @@
+<data>
+    
+    <UCNP_radius desc="UCNP radius in nm" t="float">15.0</UCNP_radius>
+    
+    <dye_ucnp_distance desc="distance dye-UCNP in nm" t="float">8</dye_ucnp_distance>
+    
+    <emitter_doping_percentage desc="Er3+ doping percentage, in %" t="float">2.0</emitter_doping_percentage>
+    
+    <number_of_dyes desc="number of dyes" t="int">1</number_of_dyes>
+    
+    <FRET_radius desc="FRET radius in nm" t="float">1.8</FRET_radius>
+    
+    <exciton_flux desc="exciton flux, in ns-1" t="float">0.0865</exciton_flux>
+    
+    <donor_lifetime desc="donor lifetime without dyes, ns" t="int">300000</donor_lifetime>
+    
+    <acceptor_lifetime desc="acceptor lifetime, in ns" t="float">1.68</acceptor_lifetime>
+    
+    <total_sim_time desc="total time for montecarlo, in ns" t="int">10000000</total_sim_time>
+    
+    <simulation_repeats desc="simulation_repeats" t="int">10</simulation_repeats>
+</data>
